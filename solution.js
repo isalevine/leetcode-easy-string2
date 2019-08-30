@@ -24,6 +24,7 @@
 
 
 
+// NOTE: See this for solution with pure arithmetic (less expensive operations): https://stackoverflow.com/a/47600202
 
 
 var reverse = function(x) {
